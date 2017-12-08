@@ -48,7 +48,7 @@ Exit status:
  1  if minor problems (e.g., cannot access subdirectory),  
  2  if serious trouble (e.g., cannot access command-line argument).   
  
- Copyright 2017 Nurlan Ilyas."
+ Copyright 2017 Nurlan Ilyas.
  
 ## Setup Angular Project
 
