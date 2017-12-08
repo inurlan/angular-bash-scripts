@@ -3,7 +3,7 @@
 Scripts are aimed to automate the process of modules, components and services creation. version 1.0.0
 
 ## `./script.sh --help`
-Full usage: ./script.sh [-p <path>][-n <name ...>] [-m][-c][-s]
+Full usage: ./script.sh [-p \<path>\][-n \<name ...>\] [-mcs\]  
 Script is aimed to provide set of easy commands in order to create components,
 services and modules for Angular projects 
 
