@@ -57,14 +57,14 @@ Now you can add script to your current directory. In our case it will be Project
 
 ## Examples
 
-Create multiple components under default src/app directory via `./script -n "home profile settings"`   
-Create multiple components under src/app/pages directory via `./script -p "pages" -n "home profile settings"`   
-Create multiple components under src/app/pages directory via `./script -p "pages" -n "home profile settings" --component` or just `./script -p "pages" -n "home profile settings" -c`   
-Create multiple modules under src/app/pages directory via `./script -p "pages" -n "home profile settings" --module` or just `./script -p "pages" -n "home profile settings" -m`   
-Create multiple services under src/app/pages directory via `./script -p "pages" -n "home profile settings" --service` or just `./script -p "pages" -n "home profile settings" -s`   
-Create multiple components and bind them to their local modules under src/app/pages directory via `./script -p "pages" -n "home profile settings" -mc`   
-Create multiple services and bind them to their local modules under src/app/pages directory via `./script -p "pages" -n "home profile settings" -sm`   
-Create multiple components, services and bind them to their local modules under src/app/pages directory via `./script -p "pages" -n "home profile settings" -smc`   
+Create multiple components under default src/app directory via `./script.sh -n "home profile settings"`   
+Create multiple components under src/app/pages directory via `./script.sh -p "pages" -n "home profile settings"`   
+Create multiple components under src/app/pages directory via `./script.sh -p "pages" -n "home profile settings" --component` or just `./script.sh -p "pages" -n "home profile settings" -c`   
+Create multiple modules under src/app/pages directory via `./script.sh -p "pages" -n "home profile settings" --module` or just `./script.sh -p "pages" -n "home profile settings" -m`   
+Create multiple services under src/app/pages directory via `./script.sh -p "pages" -n "home profile settings" --service` or just `./script.sh -p "pages" -n "home profile settings" -s`   
+Create multiple components and bind them to their local modules under src/app/pages directory via `./script.sh -p "pages" -n "home profile settings" -mc`   
+Create multiple services and bind them to their local modules under src/app/pages directory via `./script.sh -p "pages" -n "home profile settings" -sm`   
+Create multiple components, services and bind them to their local modules under src/app/pages directory via `./script.sh -p "pages" -n "home profile settings" -smc`   
 
 
 
